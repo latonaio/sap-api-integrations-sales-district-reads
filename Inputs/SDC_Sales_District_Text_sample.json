@@ -1,0 +1,18 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"SalesDistrict": {
+	    "SalesDistrict": "",
+        "Text": {
+			"SalesDistrict": "",
+			"Language": "EN",
+			"SalesDistrictName": "Northern"
+        }
+	},
+	"api_schema": "SAPSalesDistrictReads",
+	"accepter": ["Text"],
+	"sales_district_code": "",
+	"deleted": false
+}

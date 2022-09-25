@@ -1,0 +1,12 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-district-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-sales-district-reads/SAP_API_Caller.(*SAPAPICaller).SalesDistrict",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesDistrict": "000001",
+			"to_Text": "http://100.21.57.120:8080/sap/opu/odata/sap/API_SALESDISTRICT_SRV/A_SalesDistrict('000001')/to_Text"
+		}
+	],
+	"time": "2022-09-25T15:12:34+09:00"
+}

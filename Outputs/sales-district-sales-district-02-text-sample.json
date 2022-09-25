@@ -1,0 +1,28 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-district-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-sales-district-reads/SAP_API_Caller.(*SAPAPICaller).SalesDistrict",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesDistrict": "000001",
+			"Language": "DE",
+			"SalesDistrictName": "Bezirk Nord"
+		},
+		{
+			"SalesDistrict": "000001",
+			"Language": "EN",
+			"SalesDistrictName": "Northern region"
+		},
+		{
+			"SalesDistrict": "000001",
+			"Language": "ES",
+			"SalesDistrictName": "Zona Norte"
+		},
+		{
+			"SalesDistrict": "000001",
+			"Language": "JA",
+			"SalesDistrictName": "北部"
+		}
+	],
+	"time": "2022-09-25T15:12:34+09:00"
+}

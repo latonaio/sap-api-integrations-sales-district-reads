@@ -1,0 +1,13 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-district-reads/SAP_API_Caller/caller.go#L109",
+	"function": "sap-api-integrations-sales-district-reads/SAP_API_Caller.(*SAPAPICaller).Text",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesDistrict": "000001",
+			"Language": "EN",
+			"SalesDistrictName": "Northern region"
+		}
+	],
+	"time": "2022-09-25T15:15:05+09:00"
+}
